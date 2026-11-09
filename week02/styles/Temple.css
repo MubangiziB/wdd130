@@ -1,0 +1,74 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+
+header,
+footer {
+    background-color: darkcyan;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    width: auto;
+}
+
+main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 40px;
+    font-size: 2rem;
+    text-align: center;
+    border-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 200%;
+    height: auto;
+    box-shadow: 30px 0 40px grey;
+    align-self: auto;
+}
+
+h2 {
+    text-align: left;
+    padding: 0;
+    border: #222;
+
+}
+
+section {
+    margin: 40px auto;
+    border: 1px solid rgb(0 0 0 / 10%);
+    padding: 0px;
+    background-color: lightsteelblue;
+    font-size: 2rem;
+    width: 800px;
+    height: autox;
+    text-align: left;
+}
+
+section p {
+    margin: 1px;
+
+}
+
+ul {
+    margin: 40px 40px 60px;
+    height: auto;
+    text-align: left;
+}
+
+h2 {
+    border-bottom: 1px solid #222;
+    font-size: 40px;
+}
+
+footer {
+    font-size: 40px;
+    text-align: center;
+
+}
