@@ -23,6 +23,7 @@ aside {
     image-rendering: auto;
     text-align: justify;
     background-color: burlywood;
+    border: #000;
 
 }
 
