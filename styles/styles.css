@@ -6,7 +6,7 @@ main {
 main img {
     width: 200px;
     height: auto;
-    border: #333;
+    border: black;
     padding: 1px;
     box-shadow: black;
 }
