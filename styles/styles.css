@@ -8,7 +8,7 @@ main img {
     height: auto;
     border: #333;
     padding: 1px;
-    box-shadow: gray;
+    box-shadow: black;
 }
 
 aside {
