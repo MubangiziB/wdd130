@@ -1,31 +1,46 @@
 main {
     max-width: 840px;
+    text-align: justify;
 }
 
 aside {
-    width: 20rem;
+    width: 60%;
+    height: auto;
     margin: 1rem;
     border: 1px solid rgb(0 0 0 / 0.2);
-    padding: 1rem;
+    padding: 2rem;
     background-color: #eee;
     color: #333;
-    text-align: center;
+    text-indent: 1px;
+    image-rendering: auto;
+    text-align: justify;
+    background-color: burlywood;
 
 }
 
 aside img {
     width: 200px;
     height: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+aside h2 {
+    color: rebeccapurple;
+    padding-top: 0px;
 }
 
 main img {
-    width: 150px;
+    width: 200px;
     height: auto;
+    border: #333;
+    padding: 1px;
+    box-shadow: gray;
+
 }
 
-h1 {
-    padding: 10px;
-    font-size: 2rem;
+main h1 {
+    color: blue;
 
 }
 
