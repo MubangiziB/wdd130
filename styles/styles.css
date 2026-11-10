@@ -23,6 +23,13 @@ main img {
     height: auto;
 }
 
+h1 {
+    padding: 10px;
+    font-size: 2rem;
+    background-color: aqua;
+
+}
+
 p {
     padding: 0;
 }
