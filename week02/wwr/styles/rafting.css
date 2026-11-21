@@ -16,10 +16,6 @@ header {
     color: var(--accent2-color);
 }
 
-header nav {
-    color: #e9c46a;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -70,7 +66,7 @@ h1 {
     position: absolute;
     top: 20px;
     width: 100%;
-    padding: 16px;
+    padding: 20px;
     text-align: center;
     opacity: 0.7;
     background-color: var(--accent1-color);
@@ -79,5 +75,6 @@ h1 {
 
 .hero article img {
     float: right;
-    width: 125px;
+    width: 400px;
+    position: relative;
 }
