@@ -16,6 +16,10 @@ header {
     color: var(--accent2-color);
 }
 
+header nav {
+    color: #e9c46a;
+}
+
 * {
     margin: 0;
     padding: 0;
